@@ -1,4 +1,5 @@
-# Data-Structures-lab-file
-## Abhishek
-## 2401420020
-## BTech CSE Data Science
+# Data Structures Lab File
+### Name: Abhishek Thakur
+### Roll number: 2401420020
+### Course: BTech CSE Data Science
+### Submitted to: Ms. Swathi
