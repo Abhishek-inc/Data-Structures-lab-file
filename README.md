@@ -1,2 +1,4 @@
 # Data-Structures-lab-file
-Abhishek2401420020, BTech CSE Data Science
+## Abhishek
+## 2401420020
+## BTech CSE Data Science
